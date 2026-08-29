@@ -24,6 +24,10 @@ npm ci
 npx playwright install chromium
 ```
 
+## Video Demonstration
+
+https://github.com/user-attachments/assets/f333c451-ee2c-4b5e-8242-2879809567c3
+
 ## Commands
 
 | Command                      | Purpose                                                     |
